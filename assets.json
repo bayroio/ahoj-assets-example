@@ -1,0 +1,32 @@
+[
+    {
+      "name": "Lighthouse Watercolor",
+      "description": "A lighthouse watercolor picture",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Taran_Lighthouse_Kalinigrad_Oblast_Tatiana_Yagunova_Watercolor_painting.jpg",
+      "plu": "0001"
+    },
+    {
+        "name": "Manzana Akane Grande",
+        "description": "De cosecha tardía y originaria de Japón. De pulpa que puede ir del blanco al amarillo, firme, crujiente, jugosa y dulce. Se consume en fresco y en ensalada.",
+        "image": "https://www.ocu.org/-/media/ocu/images/home/alimentacion/alimentos/manzanas/500x400_manzanabicolor.jpg",
+        "plu": "4098"
+    },
+    {
+        "name": "Manzana Rojo Delicious Extra Grande",
+        "description": "La variedad más conocida de manzana roja es la Red Delicious. De cosecha tardía y originaria de Estados Unidos. Tiene forma alargada con cinco puntas características en la base. Su piel es áspera y la pulpa dulce, jugosa y aromática. Se consume en fresco y en ensalada.",
+        "image": "https://www.ocu.org/-/media/ocu/images/home/alimentacion/alimentos/manzanas/500x400_manzanaroja.jpg",
+        "plu": "3284"
+    },
+    {
+        "name": "Manzana Bertanne/Dorado Russet",
+        "description": "Es de cosecha tardía y originaria de Europa. Tiene la pulpa blanco-verdosa firme y crujiente. De sabor ácido. Se consume en fresco, también se usa mucho en repostería. Es ideal para cocinar.",
+        "image": "https://www.ocu.org/-/media/ocu/images/home/alimentacion/alimentos/manzanas/500x400_manzanaparda.jpg",
+        "plu": "3340"
+    },
+    {
+        "name": "Manzana Virginia Gold",
+        "description": "Se cosecha en septiembre. Es originaria de Estados Unidos y tiene la pulpa firme, fina, jugosa, dulce y perfumada. Se consume en fresco, en ensalada y en repostería.",
+        "image": "https://www.ocu.org/-/media/ocu/images/home/alimentacion/alimentos/manzanas/500x400_manzanaamarilla.jpg",
+        "plu": "3271"
+    }
+  ]
